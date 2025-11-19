@@ -1,0 +1,5 @@
+{
+  "name": "Kalkulátor vetknutého nosníku",
+  "description": "Webová aplikace pro výpočet napětí, průhybu, smykových sil a ohybových momentů pro vetknutý nosník z L-profilů zatížený osamělou silou na konci.",
+  "requestFramePermissions": []
+}
